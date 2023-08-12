@@ -6,3 +6,5 @@ Hello voilà un petit script pour avoir un simple compteur sur vos serveur five 
 
 main.lua | l.2 local method = "KPH" change it by MPH or KPH
 
+then add **ensure SimpleSpeedoMeter** to your server.cfg
+
